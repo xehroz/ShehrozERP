@@ -84,6 +84,11 @@ Shehroz ERP can be customized with your own branding:
    SECONDARY_COLOR="#your-secondary-color"
    ```
 
+
+## Windows Installation Guide
+
+You can find the guide [here](/Windows Installation Guide.md).
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

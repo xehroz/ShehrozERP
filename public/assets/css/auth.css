@@ -1,0 +1,40 @@
+/* Procurement ERP - Authentication Pages Stylesheet */
+
+body {
+    background-color: #f8f9fc;
+}
+
+.auth-card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15);
+}
+
+.auth-logo {
+    max-width: 200px;
+    margin: 0 auto 30px;
+}
+
+.btn-primary {
+    background-color: #4e73df;
+    border-color: #4e73df;
+}
+
+.btn-primary:hover {
+    background-color: #2e59d9;
+    border-color: #2653d4;
+}
+
+.form-control {
+    font-size: 0.9rem;
+    border-radius: 0.35rem;
+}
+
+.small {
+    font-size: 80%;
+    font-weight: 400;
+}
+
+.text-gray-900 {
+    color: #3a3b45 !important;
+}

@@ -87,7 +87,7 @@ Shehroz ERP can be customized with your own branding:
 
 ## Windows Installation Guide
 
-You can find the guide [here](/Windows Installation Guide.md).
+You can find the guide [here](/main/Windows%20Installation%20Guide.md).
 
 ## License
 

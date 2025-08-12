@@ -35,12 +35,12 @@ Shehroz ERP provides a complete procurement management solution with a focus on 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/shehroz-erp.git
+   git clone https://github.com/xehroz/ShehrozERP.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd shehroz-erp
+   cd shehrozerp
    ```
 
 3. Install dependencies:
@@ -91,5 +91,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For support or inquiries, please contact:
-- Email: info@shehroz-erp.com
-- Website: https://shehroz-erp.com
+- Email: me@shehroz.pk
+- Website: https://erp.shehroz.pk
